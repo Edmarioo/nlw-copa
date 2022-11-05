@@ -27,16 +27,45 @@ document.querySelector('#cards').innerHTML=
 
 
 createCard('24/11','quinta',
+createGame("switzerland","07:00","cameroon")+
+
 createGame("brazil","16:00","serbia")
 
 )+
 
 
-createCard('28/11',"segunda",
-createGame("switzerland","13:00","brazil")
+createCard('26/11',"segunda",
+createGame("france","13:00","dinamarca")+
+createGame("argentina","16:00","mexico")
 )+
-createCard('02/12',"sexta",
-createGame("brazil","16:00","cameroon")
+createCard('27/11',"sexta",
+createGame("belgica","16:00","marrocos")+
+createGame("alemanha","16:00","spain")
+)+
+
+createCard('28/11',"sexta",
+createGame("brazil","13:00","switzerland")+
+createGame("portugal","16:00","uruguay")
+)+
+
+createCard('29/11',"sexta",
+createGame("equador","12:00","senegal")+
+createGame("gales","16:00","inglaterra")
+)+
+
+createCard('30/11',"sexta",
+createGame("tunisia","12:00","france")+
+createGame("polonia","16:00","argentina")
+)+
+
+createCard('1/12',"sexta",
+createGame("japao","16:00","spain")+
+createGame("costarica","16:00","alemanha")
+)+
+
+createCard('2/12',"sexta",
+createGame("coreiadosul","16:00","portugal")+
+createGame("cameroon","16:00","brasil")
 )
 
 
