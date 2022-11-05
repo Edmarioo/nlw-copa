@@ -43,22 +43,22 @@ createGame("belgica","16:00","marrocos")+
 createGame("alemanha","16:00","spain")
 )+
 
-createCard('28/11',"sexta",
+createCard('28/11',"domingo",
 createGame("brazil","13:00","switzerland")+
 createGame("portugal","16:00","uruguay")
 )+
 
-createCard('29/11',"sexta",
+createCard('29/11',"terça",
 createGame("equador","12:00","senegal")+
 createGame("gales","16:00","inglaterra")
 )+
 
-createCard('30/11',"sexta",
+createCard('30/11',"quarta",
 createGame("tunisia","12:00","france")+
 createGame("polonia","16:00","argentina")
 )+
 
-createCard('1/12',"sexta",
+createCard('1/12',"quinta",
 createGame("japao","16:00","spain")+
 createGame("costarica","16:00","alemanha")
 )+
