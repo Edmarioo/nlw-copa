@@ -64,8 +64,8 @@ createGame("costarica","16:00","alemanha")
 )+
 
 createCard('2/12',"sexta",
-createGame("coreiadosul","16:00","portugal")+
-createGame("cameroon","16:00","brasil")
+createGame("coreiadosul","12:00","portugal")+
+createGame("cameroon","16:00","brazil")
 )
 
 
