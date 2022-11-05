@@ -43,7 +43,7 @@ createGame("belgica","16:00","marrocos")+
 createGame("alemanha","16:00","spain")
 )+
 
-createCard('28/11',"domingo",
+createCard('28/11',"segunda",
 createGame("brazil","13:00","switzerland")+
 createGame("portugal","16:00","uruguay")
 )+
